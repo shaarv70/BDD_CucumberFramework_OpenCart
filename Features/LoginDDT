@@ -1,0 +1,13 @@
+Feature: Login with valid credentials 
+#hash is used to comment out in feature file	
+#to justify all lines in feature file we use Ctrl +shift+f
+
+@sanity 	
+Scenario: Successful login with valid credentials 
+	Given User launch browser 
+	And   opens URL("http://localhost/opencart/upload/") 
+	When  User navigate to MyAccount menu 
+	And   click on Login 
+	And enter Emails as:"arvindtest@gmail.com" and Password as "est@123" 
+	And click on Login button 
+	Then user navigates to myAccount Page 

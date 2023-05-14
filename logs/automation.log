@@ -1,0 +1,112 @@
+16:56:02.158 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, int): unavailable
+16:56:02.162 [main] DEBUG io.netty.util.internal.PlatformDependent - sun.misc.Unsafe: available
+16:56:02.162 [main] DEBUG io.netty.util.internal.PlatformDependent - maxDirectMemory: 8510242816 bytes (maybe)
+16:56:02.162 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.tmpdir: C:\Users\ARVIND~1.SHA\AppData\Local\Temp (java.io.tmpdir)
+16:56:02.162 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+16:56:02.163 [main] DEBUG io.netty.util.internal.PlatformDependent - Platform: Windows
+16:56:02.163 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.maxDirectMemory: -1 bytes
+16:56:02.163 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+16:56:02.166 [main] DEBUG io.netty.util.internal.CleanerJava9 - java.nio.ByteBuffer.cleaner(): available
+16:56:02.166 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.noPreferDirect: false
+16:56:02.170 [main] DEBUG io.netty.util.internal.PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+16:56:02.183 [main] DEBUG io.netty.util.internal.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+16:56:02.183 [main] DEBUG io.netty.util.internal.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+16:56:02.281 [main] DEBUG io.netty.handler.ssl.JdkSslContext - Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+16:56:02.281 [main] DEBUG io.netty.handler.ssl.JdkSslContext - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+16:56:02.291 [main] DEBUG io.netty.util.concurrent.GlobalEventExecutor - -Dio.netty.globalEventExecutor.quietPeriodSeconds: 1
+16:56:02.301 [main] DEBUG io.netty.channel.MultithreadEventLoopGroup - -Dio.netty.eventLoopThreads: 16
+16:56:02.308 [main] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.noKeySetOptimization: false
+16:56:02.308 [main] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+16:56:02.321 [main] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@5580d62f
+16:56:02.323 [main] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@3a01773b
+16:56:02.325 [main] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@20e3c449
+16:56:02.327 [main] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@2c58dcb1
+16:56:02.328 [main] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@67fc2aad
+16:56:02.330 [main] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@56f521c6
+16:56:02.332 [main] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@680a66dd
+16:56:02.333 [main] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@2dd8239
+16:56:02.335 [main] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@472698d
+16:56:02.336 [main] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@7b7683d4
+16:56:02.338 [main] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@40712ee9
+16:56:02.339 [main] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@2e53b094
+16:56:02.341 [main] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@39fa8ad2
+16:56:02.342 [main] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@76ddd61a
+16:56:02.344 [main] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@3f92a84e
+16:56:02.345 [main] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@cf67838
+16:56:02.357 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numHeapArenas: 16
+16:56:02.357 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numDirectArenas: 16
+16:56:02.357 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.pageSize: 8192
+16:56:02.357 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxOrder: 9
+16:56:02.357 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.chunkSize: 4194304
+16:56:02.357 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.smallCacheSize: 256
+16:56:02.357 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.normalCacheSize: 64
+16:56:02.357 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+16:56:02.357 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimInterval: 8192
+16:56:02.357 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+16:56:02.357 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.useCacheForAllThreads: false
+16:56:02.357 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+16:56:02.364 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.allocator.type: pooled
+16:56:02.364 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.threadLocalDirectBufferSize: 0
+16:56:02.364 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+16:56:02.559 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.processId: 47480 (auto-detected)
+16:56:02.560 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv4Stack: false
+16:56:02.561 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv6Addresses: false
+16:56:02.570 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtilInitializations - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+16:56:02.571 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+16:56:02.578 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.machineId: 00:93:37:ff:fe:02:3f:6e (auto-detected)
+16:56:02.602 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkAccessible: true
+16:56:02.602 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkBounds: true
+16:56:02.602 [AsyncHttpClient-1-2] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@62223671
+16:56:02.620 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+16:56:02.620 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+16:56:02.620 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.chunkSize: 32
+16:56:02.620 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.blocking: false
+16:56:02.620 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.batchFastThreadLocalOnly: true
+16:56:03.249 [AsyncHttpClient-1-2] DEBUG io.netty.handler.codec.compression.Brotli - brotli4j not in the classpath; Brotli support will be unavailable.
+16:56:03.328 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x6c83984799e97380
+16:56:05.843 [main] INFO  stepDefinitions.steps - Clicked on MyAccount menu
+16:56:06.071 [main] INFO  stepDefinitions.steps - Clicked on login option
+16:56:06.182 [main] INFO  stepDefinitions.steps - Entered email and password
+16:56:06.387 [main] INFO  stepDefinitions.steps - Clicked on login button
+16:56:06.388 [main] ERROR stepDefinitions.steps - Login is failed
+17:00:36.047 [main] INFO  stepDefinitions.steps - Clicked on MyAccount menu
+17:00:36.297 [main] INFO  stepDefinitions.steps - Clicked on login option
+17:00:36.409 [main] INFO  stepDefinitions.steps - Entered email and password
+17:00:36.583 [main] INFO  stepDefinitions.steps - Clicked on login button
+17:00:36.584 [main] ERROR stepDefinitions.steps - Login is failed
+17:05:00.102 [main] INFO  stepDefinitions.steps - Clicked on MyAccount menu
+17:05:00.321 [main] INFO  stepDefinitions.steps - Clicked on login option
+17:05:00.463 [main] INFO  stepDefinitions.steps - Entered email and password
+17:05:00.700 [main] INFO  stepDefinitions.steps - Clicked on login button
+17:05:00.701 [main] ERROR stepDefinitions.steps - Login is failed
+17:10:47.586 [main] INFO  stepDefinitions.steps - Clicked on MyAccount menu
+17:10:47.816 [main] INFO  stepDefinitions.steps - Clicked on login option
+17:10:47.917 [main] INFO  stepDefinitions.steps - Entered email and password
+17:10:48.178 [main] INFO  stepDefinitions.steps - Clicked on login button
+17:10:48.179 [main] ERROR stepDefinitions.steps - Login is failed
+17:12:32.046 [main] INFO  stepDefinitions.steps - Clicked on MyAccount menu
+17:12:32.254 [main] INFO  stepDefinitions.steps - Clicked on login option
+17:12:32.360 [main] INFO  stepDefinitions.steps - Entered email and password
+17:12:32.613 [main] INFO  stepDefinitions.steps - Clicked on login button
+17:12:32.645 [main] INFO  stepDefinitions.steps - Login is success
+17:13:22.658 [main] INFO  stepDefinitions.steps - Clicked on MyAccount menu
+17:13:22.890 [main] INFO  stepDefinitions.steps - Clicked on login option
+17:13:36.872 [main] INFO  stepDefinitions.steps - Clicked on MyAccount menu
+17:13:37.126 [main] INFO  stepDefinitions.steps - Clicked on login option
+17:13:51.129 [main] INFO  stepDefinitions.steps - Clicked on MyAccount menu
+17:13:51.331 [main] INFO  stepDefinitions.steps - Clicked on login option
+18:22:13.536 [main] INFO  stepDefinitions.steps - Clicked on MyAccount menu
+18:22:13.888 [main] INFO  stepDefinitions.steps - Clicked on login option
+18:22:14.073 [main] INFO  stepDefinitions.steps - Entered email and password
+18:22:14.468 [main] INFO  stepDefinitions.steps - Clicked on login button
+18:22:14.528 [main] INFO  stepDefinitions.steps - Login is success
+18:23:24.591 [main] INFO  stepDefinitions.steps - Clicked on MyAccount menu
+18:23:25.007 [main] INFO  stepDefinitions.steps - Clicked on login option
+18:23:25.182 [main] INFO  stepDefinitions.steps - Entered email and password
+18:23:25.547 [main] INFO  stepDefinitions.steps - Clicked on login button
+18:23:25.595 [main] INFO  stepDefinitions.steps - Login is success
+18:52:02.320 [main] INFO  stepDefinitions.steps - Clicked on MyAccount menu
+18:52:02.783 [main] INFO  stepDefinitions.steps - Clicked on login option
+18:52:03.009 [main] INFO  stepDefinitions.steps - Entered email and password
+18:52:03.460 [main] INFO  stepDefinitions.steps - Clicked on login button
+18:52:03.524 [main] INFO  stepDefinitions.steps - Login is success
